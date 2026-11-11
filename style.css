@@ -1,0 +1,34 @@
+body {
+    font-family: verdana, sans-serif;
+    text-align: center;
+    background-color: #522f2e;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #a9785a;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 400px;
+}
+button {
+    background-color: #a9785a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
